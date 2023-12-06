@@ -4,7 +4,7 @@
 - 🌱 Estou estudando UI/UX e JS
 - 💬 Confira minhas redes sociais
 - 😄 Meus pronomes são ela/dela
-- ⚡ Um fato curioso: eu faço streams na Twich estudando programação
+- ⚡ Um fato curioso: estudo TI por puro prazer
 
 <div align="center">
   <a href="https://github.com/andreiammoraes">
